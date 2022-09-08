@@ -13,6 +13,6 @@ int main() {
    cout << "NIM : "<< nim << endl;
    cout << "Alamat : "<< alamat << endl;
    cout << "Umur : " << umur << endl;
-   cout << "Hobi : " << hobi << endl;
+   cout << "Hobi Saya adalah : " << hobi << endl;
 
 }
