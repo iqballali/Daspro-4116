@@ -14,5 +14,6 @@ int main() {
    cout << "Alamat : "<< alamat << endl;
    cout << "Umur : " << umur << endl;
    cout << "Hobi Saya adalah : " << hobi << endl;
+   return 0;
 
 }
