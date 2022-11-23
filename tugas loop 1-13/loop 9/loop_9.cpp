@@ -19,5 +19,5 @@ int main()
     }
     while(bilangan != 9999);
     cout << "Jumlah Cacah angka = " << jumlah_bilangan << endl;
-    cout << "Jumlah bilangan = " << sum <<endl;
+    cout << "Jumlah bilangan = " << sum;
 }
